@@ -13,4 +13,4 @@ VZ47/VZ47 is a ✨ special ✨ repository because its `README.md` (this file) ap
 You can click the Preview link to take a look at your changes.
 --->
 
-Also if you have problems with searching your binaries or confirming copyright rights contact Gore Securiries Corp, or Suspect Activities inc. Plus rule 70% on them.
+Also if you have problems with searching your binaries or confirming copyright rights contact Gore Securiries Corp, or Suspect Activities inc. Plus rule: 70% on them.
