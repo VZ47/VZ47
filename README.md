@@ -6,6 +6,8 @@
 - 😄 Pronouns: VITOWVN GLDNSWG
 - ⚡ Fun fact: DA FEI GE
 
+- $$$$ To compile my programs contact Apple inc. or Goldman Sachs Bank. Or run through command line and scan The Deep Dark Web.
+
 <!---
 VZ47/VZ47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
